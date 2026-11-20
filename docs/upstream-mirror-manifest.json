@@ -1,0 +1,67 @@
+{
+ "kind": "github",
+ "repo": "https://github.com/nextbuilder/orbit-clock",
+ "commit": "1a5bdbac05f03b16d83391c791354e726df7ad1d",
+ "tree": "cbf04a27ea4bc0eb8f34c71bcb8903baa785854d",
+ "commit_date": "2026-07-03T16:38:04Z",
+ "files": [
+  {
+   "path": "CAD Design/Orbit Clock Cover.stl",
+   "bytes": 243484,
+   "git_blob_sha": "e9a4e002351cd8e8db222cd0e853ed3b165511c2",
+   "blob_match": true,
+   "lfs_pointer": false,
+   "sha256": "35e45358b6c11e0a4e158f329a651cd8ada5e9dab2429fd2607fba0cf5e47803"
+  },
+  {
+   "path": "CAD Design/Orbit Clock Housing.stl",
+   "bytes": 188284,
+   "git_blob_sha": "20bcc934380bfac76cf142dad75170c92c46f876",
+   "blob_match": true,
+   "lfs_pointer": false,
+   "sha256": "0c090233de81e4679f2a10a0f0bdc99cad34c81bd3684da9ccfe8db8d3e8dae7"
+  },
+  {
+   "path": "CAD Design/Orbit Clock Legs.stl",
+   "bytes": 118684,
+   "git_blob_sha": "11f8545f60a7af3ab2734bb8431dc29380a8ee61",
+   "blob_match": true,
+   "lfs_pointer": false,
+   "sha256": "6258ae80d82217f96eedccaa87214e4ffc74fc3a3dc3452d49af236f481e8cbf"
+  },
+  {
+   "path": "Circuit Diagram/circuit_image.png",
+   "bytes": 1891821,
+   "git_blob_sha": "7c29507fef19c96f08780405b43a5e787048b8b7",
+   "blob_match": true,
+   "lfs_pointer": false,
+   "sha256": "44d19270a8dea429822276252efb98a2fec8d644c955380c79a4f52266c7c1af"
+  },
+  {
+   "path": "Code/OrbitClock.ino",
+   "bytes": 3604,
+   "git_blob_sha": "680257e798287d13668db6574dc7be0c2f70a3ff",
+   "blob_match": true,
+   "lfs_pointer": false,
+   "sha256": "e79f673f9e40d3ce2a96c42e2c0453746345b09ddcea33b22c32d7ef4ae7e49f"
+  },
+  {
+   "path": "LICENSE",
+   "bytes": 1070,
+   "git_blob_sha": "2582061e358f959f82d4aa3a065c922eb710c70f",
+   "blob_match": true,
+   "lfs_pointer": false,
+   "sha256": "d06fee4e200c0fb003a90d31a76e3c1eccff68760ae78aaee12e0ef141767257"
+  },
+  {
+   "path": "README.md",
+   "bytes": 5630,
+   "git_blob_sha": "2058ed2bbcfa8fa40b450e0558e016e00e2e07df",
+   "blob_match": true,
+   "lfs_pointer": false,
+   "sha256": "c0813187bbe919f163cab95274b54ca2d383568e33addf4aa90449044c2818db"
+  }
+ ],
+ "all_blob_match": true,
+ "lfs_pointers": []
+}
